@@ -1,0 +1,5 @@
+Link para downloads do GIT:
+https://git-scm.com/downloads
+
+No Windows será utilizado o Git bash (Console);
+No Linux será utilizado o terminal para executar os comandos; 
